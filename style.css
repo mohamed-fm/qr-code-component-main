@@ -48,10 +48,12 @@ h2{
     font-weight: bold;
     margin-bottom: 16px;
     margin-top: 24px;
+    text-align: center;
 }
 p{
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
     color: var(--Slate-500);
+    text-align: center;
 }
